@@ -1,0 +1,43 @@
+
+u
+java:S41446"XUpdate this method so that its implementation is not identical to "division" on line 44.(Û ™‚8–µŠÚ0
+=
+java:S1905"'Remove this unnecessary cast to "List".(Ó–ÅÊ
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÀÕãßüÿÿÿÿ
+=
+java:S1905"'Remove this unnecessary cast to "List".(Ç­öğ
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Õİ¸Íüÿÿÿÿ
+=
+java:S1905"'Remove this unnecessary cast to "List".(Ó–ÅÊ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(å„µë
+=
+java:S1905"'Remove this unnecessary cast to "List".(Ç­öğ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(å„µë
+=
+java:S1905$"'Remove this unnecessary cast to "List".(Ó–ÅÊ
+m
+java:S6204%"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(©ÙÂ£ùÿÿÿÿ
+=
+java:S1905'"'Remove this unnecessary cast to "List".(Ç­öğ
+g
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(·¾œy
+=
+java:S1905/"'Remove this unnecessary cast to "List".(Ç­öğ
+h
+java:S62040"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Õ´¶è
+=
+java:S19052"'Remove this unnecessary cast to "List".(Ó–ÅÊ
+h
+java:S62043"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‹ã¤ˆ
+=
+java:S19059"'Remove this unnecessary cast to "List".(Ç­öğ
+h
+java:S6204:"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Õ´¶è
+=
+java:S1905<"'Remove this unnecessary cast to "List".(Ó–ÅÊ
+h
+java:S6204="RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‹ã¤ˆ
